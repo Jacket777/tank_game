@@ -3,6 +3,11 @@ package com.lab.tank;
 import java.awt.Frame;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
+/**
+ * frist version
+ * @author n'n
+ *
+ */
 
 public class T {
 
