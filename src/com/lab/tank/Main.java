@@ -5,7 +5,7 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 /**
  * frist version
- * @author n'n
+ * @author Jack
  * 2023-04-12
  *
  */
